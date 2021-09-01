@@ -88,6 +88,7 @@ hr{
 }
 
 .hero .hero-heading {
+    padding top: 1rem;;
     color: var(--dark-gray);
 }
 
